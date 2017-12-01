@@ -56,7 +56,7 @@ Right: `D` or `right arrow`
 
 After clicking on the start game menu button an input field will appear to get
 the user name. After that the user will have a levels screen. This screen contains
-3 main level options of the game. The levels are ***Level 1: Fire Ice*** ***Level 2:
+3 main level options of the game. The levels are ***Level 1: Fire Ice***, ***Level 2:
 sky High*** and ***Level 3: Forbidden Grid***
 
 Each of the levels contains 1-2 minutes of full gameplay, individual background
@@ -87,7 +87,7 @@ Run and play the game from unity game engine.
 ## Gameplay
 
 The gameplay of this game has been uploaded in YouTube. The gameplay video link
-is given: `https://www.youtube.com/watch?v=6cXcXStZ-P0`
+is given: https://www.youtube.com/watch?v=6cXcXStZ-P0
 
 ## Game
 
